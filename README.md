@@ -1,6 +1,6 @@
 # looklove_c64
-##simple game in c64 BASIC
-
+## simple game in c64 BASIC
+![lookoflove.png](lookoflove.png)
 ## get all the hearts,  avoid the trees and edges
 ## i -- moves up
 ## k -- moves down
