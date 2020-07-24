@@ -1,5 +1,5 @@
 # looklove_c64
-## simple game in c64 BASIC
+## a simple game in Commodore 64 BASIC
 ![lookoflove.png](lookoflove.png)
 
 ### get all the hearts,  avoid the trees and four edges
